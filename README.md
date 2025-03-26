@@ -55,7 +55,7 @@ pip install -r requirements.txt
 ```  
 
 #### 3️⃣ Download Dataset  
-📌 Download the dataset from [Kaggle](#) *(Replace with actual link)* and place it in the project folder.  
+📌 Download the dataset from [Kaggle](#)  and place it in the project folder.  
 
 #### 4️⃣ Run the Script  
 ```bash
